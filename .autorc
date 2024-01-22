@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "sam100155",
+  "repo": "container-32wpo",
+  "name": "sam100155",
+  "email": "sam100155@proton.me",
+}
